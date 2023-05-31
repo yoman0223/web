@@ -1,0 +1,36 @@
+.title{
+  background-color: rgb(70, 75, 94);
+  text-align: center;
+  font-size: 4rem;
+}
+.back{
+
+width: 1200px;
+margin-right: auto;
+margin-left: auto;
+background-color: rgb(155, 114, 122);
+}
+.topic{
+  background-color: aqua;
+  margin-left: 5px;
+  line-height: 150px;
+  cursor: pointer;
+  font-size: 2rem;
+  text-align: center;
+  display: inline-block;
+  width: 390px;
+  height: 150px;
+  vertical-align:top;
+  transition: 1s;
+}
+.topic:hover{
+  background-color: rgba(253, 251, 251, 0.918);
+  font-size: 3rem;
+  height: 800px;
+  transition-delay: 0.5s;
+  
+}
+.hide{
+display: none;
+
+}
